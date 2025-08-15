@@ -1,14 +1,14 @@
 {
   "button1": {
-    "text": "Instruction 1",
-    "url": "https://github.com/YOUR_USERNAME/YOUR_REPO",
+    "text": "New Key Info",
+    "url": "https://forms.gle/xwxFBvxDCDtRoKmo6",
     "instructions": [
       "Step 1: Open the app",
       "Step 2: Click search"
     ]
   },
   "button2": {
-    "text": "Instruction 2",
+    "text": "LINK 2",
     "url": "https://github.com/YOUR_USERNAME/YOUR_REPO/button2",
     "instructions": [
       "Step 1: Do something else",
@@ -16,7 +16,7 @@
     ]
   },
   "button3": {
-    "text": "Instruction 3",
+    "text": "LINK 3",
     "url": "https://github.com/YOUR_USERNAME/YOUR_REPO/button3",
     "instructions": [
       "Step 1: Another instruction",
@@ -24,7 +24,7 @@
     ]
   },
   "button4": {
-    "text": "Instruction 4",
+    "text": "LINK 4",
     "url": "https://github.com/YOUR_USERNAME/YOUR_REPO/button4",
     "instructions": [
       "Step 1: Last instruction",
