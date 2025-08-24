@@ -1,10 +1,4 @@
 [
-    {
-        "username": "hrid",
-        "password": "12345"
-    },
-    {
-        "username": "admin",
-        "password": "admin"
-    }
+    { "username": "hridoy", "password": "1234" },
+    { "username": "admin", "password": "admin" }
 ]
