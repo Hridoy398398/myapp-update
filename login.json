@@ -1,26 +1,5 @@
 [
-    {
-        "username": "hridoy",
-        "password": "1234"
-    },
-    {
-        "username": "admin",
-        "password": "admin"
-    },
-    {
-        "username": "admin1",
-        "password": "admin1"
-    },
-    {
-        "username": "admin",
-        "password": "admin2"
-    },
-    {
-        "username": "admin",
-        "password": "admin3"
-    },
-    {
-        "username": "admin",
-        "password": "admin5"
-    }
+    { "username": "hridoy", "password": "12345" },
+    { "username": "admin", "password": "admin123" },
+    { "username": "testuser", "password": "test123" }
 ]
