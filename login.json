@@ -1,6 +1,9 @@
 [
     { "username": "hridoy", "password": "1234" },
     { "username": "admin", "password": "admin12" },
-    { "username": "testuser", "password": "test123" },
-    { "username": "cox11", "password": "cox123" }
+    { "username": "testuser", "password": "test11" },
+    { "username": "testuser", "password": "test22" },
+    { "username": "testuser", "password": "test33" },
+    { "username": "testuser", "password": "test44" },
+    { "username": "cox", "password": "cox123" }
 ]
